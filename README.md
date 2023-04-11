@@ -2,13 +2,15 @@
 
 Меня зовут Дмитрий Картошкин, я python-разработчик.
 
+Умею работать с базами данных PostgreSQL и фреймворками Django и FAST API
+
 Django: https://github.com/DmitryKartoshkin/DmitryKartoshkin/edit/main/Django.md
 
 Работа с базами данных PostgrSQL помощью SQL-запросов: https://github.com/DmitryKartoshkin/Working_with_PostgreSQL_from_Python
 
 Докеризация Django с помощью Postgres, Gunicorn и Nginx: https://github.com/DmitryKartoshkin/docker_part_2
 
-Работа асинхроных функций «Asyncio»: https://github.com/DmitryKartoshkin/asincio
+Работа асинхроных функций библиотеки «Asyncio»: https://github.com/DmitryKartoshkin/asincio
 
 Фреймворк Flask: https://github.com/DmitryKartoshkin/flask
 
