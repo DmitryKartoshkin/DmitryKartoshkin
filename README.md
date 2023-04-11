@@ -2,6 +2,8 @@
 
 Меня зовут Дмитрий Картошкин, я python-разрвботчик.
 
+Django: https://github.com/DmitryKartoshkin/DmitryKartoshkin/edit/main/Django.md
+
 Сертификаты НЕТОЛОГИИ:
 
 Git: https://netology.ru/sharing/317ee11e0245aca09a9dab000e9ca15e?utm_source=social&utm_campaign=achievements
