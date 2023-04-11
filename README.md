@@ -1,8 +1,12 @@
 Добрый день. 👋
 
-Меня зовут Дмитрий Картошкин, я python-разрвботчик.
+Меня зовут Дмитрий Картошкин, я python-разработчик.
 
 Django: https://github.com/DmitryKartoshkin/DmitryKartoshkin/edit/main/Django.md
+
+Работа с базами данных PostgrSQL: https://github.com/DmitryKartoshkin/DmitryKartoshkin/blob/main/BD.md
+
+
 
 Сертификаты НЕТОЛОГИИ:
 
