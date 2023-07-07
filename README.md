@@ -14,7 +14,7 @@ Django: https://github.com/DmitryKartoshkin/DmitryKartoshkin/edit/main/Django.md
 
 Фреймворк Flask: https://github.com/DmitryKartoshkin/flask
 
-Итоговая работа на создание бэкенда интернет-магазина: 
+Итоговая работа на создание бэкенда интернет-магазина: https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 
 Сертификаты Нетологии: https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 
