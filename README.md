@@ -18,7 +18,7 @@ Django: https://github.com/DmitryKartoshkin/DmitryKartoshkin/edit/main/Django.md
 
 Парсер данных страницы русской Википедии: https://github.com/DmitryKartoshkin/parser_wiki/tree/main
 
-Сертификаты Нетологии: https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
+## Сертификаты Нетологии: https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 
 Git: https://netology.ru/sharing/317ee11e0245aca09a9dab000e9ca15e?utm_source=social&utm_campaign=achievements
 
