@@ -10,14 +10,12 @@ Django: https://github.com/DmitryKartoshkin/DmitryKartoshkin/edit/main/Django.md
 
 Докеризация Django с помощью Postgres, Gunicorn и Nginx: https://github.com/DmitryKartoshkin/docker_part_2
 
-Работа асинхроных функций библиотеки «Asyncio»: https://github.com/DmitryKartoshkin/asincio
-
 Фреймворк Flask: https://github.com/DmitryKartoshkin/flask
 
 Итоговая работа на создание «API Сервис заказа товаров для розничных сетей» с использованием Django: 
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 
-Парсер данных страницы русской Википедии: https://github.com/DmitryKartoshkin/parser_wiki/tree/main
+Парсер данных страницы русской Википедии с использованием асинхронных библиотек asyncio и aiohttp: https://github.com/DmitryKartoshkin/parser_wiki/tree/main
 
 ### Сертификаты Нетологии: 
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
