@@ -14,22 +14,17 @@ Django: https://github.com/DmitryKartoshkin/DmitryKartoshkin/edit/main/Django.md
 
 Итоговая работа на создание «API Сервис заказа товаров для розничных сетей» с использованием Django: 
 ##### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
-
 Парсер данных страницы русской Википедии с использованием асинхронных библиотек asyncio и aiohttp: 
 ##### https://github.com/DmitryKartoshkin/parser_wiki/tree/main
 
 ### Сертификаты Нетологии: 
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
-
 ### Git: 
 #### https://netology.ru/sharing/317ee11e0245aca09a9dab000e9ca15e?utm_source=social&utm_campaign=achievements
-
 ### Django: 
 #### https://netology.ru/sharing/6179d351519369ff7ba42596731dfe86?utm_source=social&utm_campaign=achievements
-
 ### Работа с базами данных PostgreSQL: 
 #### https://netology.ru/sharing/e51216ec7c8d68879b452ef5dca84d1c?utm_source=social&utm_campaign=achievements
-
 ### Python в web-разработке: 
 #### https://netology.ru/sharing/06857d7cf4e90fbefb61e74705b12ef0?utm_source=social&utm_campaign=achievements
 <!--
