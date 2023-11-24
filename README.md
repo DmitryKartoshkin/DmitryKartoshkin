@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>  
 </div>
 
-
 ## Добрый день. 👋
 
 ### Меня зовут Дмитрий Картошкин и я являюсь python-разработчик.
@@ -35,6 +34,10 @@
 #### https://netology.ru/sharing/e51216ec7c8d68879b452ef5dca84d1c?utm_source=social&utm_campaign=achievements
 ### Python в web-разработке: 
 #### https://netology.ru/sharing/06857d7cf4e90fbefb61e74705b12ef0?utm_source=social&utm_campaign=achievements
+
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=DmitryKartoshkin&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 <!--
 **DmitryKartoshkin/DmitryKartoshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,3 +52,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
