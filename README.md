@@ -2,7 +2,8 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Django-red?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/Django REST framework-red?style=for-the-badge&logo=django&logoColor=white" alt="Django REST framework Badge"/>
   <img src="https://img.shields.io/badge/Fast API-green?style=for-the-badge&logo=fast api&logoColor=white" alt="Fast API Badge"/>
 </div>
 
