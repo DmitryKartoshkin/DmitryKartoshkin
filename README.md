@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Fast API-green?style=for-the-badge&logo=fast api&logoColor=white" alt="Fast API Badge"/>
   <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>  
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"/> 
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>  
 </div>
 
 
