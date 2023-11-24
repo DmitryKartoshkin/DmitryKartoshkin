@@ -2,8 +2,8 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Django-red?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/Fast API-green?style=for-the-badge&logo=fast api&logoColor=white" alt="Fast API Badge"/>
 </div>
 
 
