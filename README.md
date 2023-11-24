@@ -1,7 +1,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/django-partisan.svg)]
 
 ## Добрый день. 👋
 
