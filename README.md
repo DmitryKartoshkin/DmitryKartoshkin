@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   <img src="https://img.shields.io/badge/Django REST framework-red?style=for-the-badge&logo=django&logoColor=white" alt="Django REST framework Badge"/>
   <img src="https://img.shields.io/badge/Fast API-green?style=for-the-badge&logo=fast api&logoColor=white" alt="Fast API Badge"/>
-  <img src="https://img.shields.io/badge/git-green?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>  
 </div>
 
