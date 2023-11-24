@@ -13,9 +13,9 @@ Django: https://github.com/DmitryKartoshkin/DmitryKartoshkin/edit/main/Django.md
 Фреймворк Flask: https://github.com/DmitryKartoshkin/flask
 
 Итоговая работа на создание «API Сервис заказа товаров для розничных сетей» с использованием Django: 
-##### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
+#### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 Парсер данных страницы русской Википедии с использованием асинхронных библиотек asyncio и aiohttp: 
-##### https://github.com/DmitryKartoshkin/parser_wiki/tree/main
+#### https://github.com/DmitryKartoshkin/parser_wiki/tree/main
 
 ### Сертификаты Нетологии: 
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
