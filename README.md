@@ -18,9 +18,7 @@
   <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/PyCharm-blue?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge"/>   
 </div>
-
-
-
+####
 Умею работать с фреймворками Django (DRF) и FAST API, писать SQL-запросы и взаимодействовать с базами данных,
 использовать в разработке Docker и писать docker-compose файлы, писать тесты с использованием PyTest,
 использовать регулярные выражения и работать с асинхронными библиотеками.
