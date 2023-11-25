@@ -27,10 +27,12 @@
 ### «API Сервис заказа товаров для розничных сетей» с использованием Django:
 Backend-часть для интернет магазина
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
-### Парсер для страницы русской Википедии:
+### "Парсер для страницы русской Википедии":
 Парсер данных страницы русской Википедии с использованием асинхронных библиотек asyncio и aiohttp
 #### https://github.com/DmitryKartoshkin/parser_wiki/tree/main
-
+### "Web-приложение для определения заполненных форм."
+Приложение для поиска в базе данных форм, соответствующих входным параметрам
+#### https://github.com/DmitryKartoshkin/Search_valid_forms
 ### Сертификаты Нетологии: 
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 ### Git: 
