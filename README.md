@@ -23,7 +23,7 @@
 использовать в разработке Docker и писать docker-compose файлы, писать тесты с использованием PyTest,
 использовать регулярные выражения и работать с асинхронными библиотеками.
 
-Итоговая работа на создание «API Сервис заказа товаров для розничных сетей» с использованием Django: 
+«API Сервис заказа товаров для розничных сетей» с использованием Django: 
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 Парсер данных страницы русской Википедии с использованием асинхронных библиотек asyncio и aiohttp: 
 #### https://github.com/DmitryKartoshkin/parser_wiki/tree/main
