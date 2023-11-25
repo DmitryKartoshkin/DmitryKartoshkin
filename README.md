@@ -1,6 +1,7 @@
 ## Добрый день. 👋
 
 ### Меня зовут Дмитрий Картошкин и я являюсь python-разработчик.
+
 ### Мои технологии
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/PyTest-blue?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest Badge"/> 
 </div>
+
 ### Мои инстрeменты 
 <div id="badges">  
   <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
