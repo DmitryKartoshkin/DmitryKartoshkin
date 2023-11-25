@@ -1,7 +1,7 @@
 ## Добрый день. 👋
 
 ### Меня зовут Дмитрий Картошкин и я являюсь python-разработчик.
-***
+***********
 ### Мои технологии
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
