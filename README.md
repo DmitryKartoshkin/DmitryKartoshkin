@@ -1,5 +1,7 @@
+## Добрый день. 👋
 
-
+### Меня зовут Дмитрий Картошкин и я являюсь python-разработчик.
+### Мои технологии
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
@@ -8,12 +10,9 @@
   <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>  
   <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logoColor=white" alt="SQL Badge"/> 
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>  
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/PyTest-blue?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest Badge"/> 
 </div>
-
-## Добрый день. 👋
-
-### Меня зовут Дмитрий Картошкин и я являюсь python-разработчик.
 
 Умею работать с фреймворками Django (DRF) и FAST API, писать SQL-запросы и взаимодействовать с базами данных,
 использовать в разработке Docker и писать docker-compose файлы, писать тесты с использованием PyTest,
