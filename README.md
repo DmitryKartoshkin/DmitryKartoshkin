@@ -13,24 +13,24 @@ ____
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/PyTest-blue?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest Badge"/> 
 </div>
-
+____
 ### Мои инстрeменты 
 <div id="badges">  
   <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/PyCharm-blue?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge"/>   
 </div>
-
+____
 Умею работать с фреймворками Django (DRF) и FAST API, писать SQL-запросы и взаимодействовать с базами данных,
 использовать в разработке Docker и писать docker-compose файлы, писать тесты с использованием PyTest,
 использовать регулярные выражения и работать с асинхронными библиотеками.
-
+____
 ### «API Сервис заказа товаров для розничных сетей» с использованием Django:
 Backend-часть для интернет магазина
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 ### Парсер для страницы русской Википедии:
 Парсер данных страницы русской Википедии с использованием асинхронных библиотек asyncio и aiohttp
 #### https://github.com/DmitryKartoshkin/parser_wiki/tree/main
-
+____
 ### Сертификаты Нетологии: 
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 ### Git: 
