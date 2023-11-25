@@ -32,7 +32,7 @@ Backend-часть для интернет магазина
 #### https://github.com/DmitryKartoshkin/parser_wiki/tree/main
 ### "Web-приложение для определения заполненных форм."
 Приложение для поиска в базе данных форм, соответствующих входным параметрам
-#### https://github.com/DmitryKartoshkin/Search_valid_forms](https://github.com/DmitryKartoshkin/Search_valid_forms/tree/master
+#### https://github.com/DmitryKartoshkin/Search_valid_forms/tree/master
 ### Сертификаты Нетологии: 
 #### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 ### Git: 
