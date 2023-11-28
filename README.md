@@ -34,7 +34,6 @@ Backend-часть для интернет магазина
 Приложение для поиска в базе данных форм, соответствующих входным параметрам
 #### https://github.com/DmitryKartoshkin/Search_valid_forms/tree/master
 ### Сертификаты Нетологии: 
-#### https://github.com/DmitryKartoshkin/ProductOrderingService/tree/master
 ### Git: 
 #### https://netology.ru/sharing/317ee11e0245aca09a9dab000e9ca15e?utm_source=social&utm_campaign=achievements
 ### Django: 
